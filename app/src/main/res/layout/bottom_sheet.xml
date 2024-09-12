@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottomSheet"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="0dp"
+    android:background="@drawable/bottom_sheet_bg"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Folder Name"
+        android:textSize="26sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"/>
+    <TextView
+        android:id="@+id/id_Txt_Vu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Convert to zip"
+        android:textSize="16sp"
+        android:layout_marginStart="18dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"/>
+
+        <EditText
+            android:id="@+id/filenameInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:hint="folder name :"
+            android:padding="16dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="0dp">
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <RadioButton
+                android:id="@+id/zipButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Zip"
+                android:checked="true"
+                android:layout_marginEnd="12dp"
+                android:textSize="18sp"
+                android:onClick="onRadioButtonClicked"/>
+
+            <RadioButton
+                android:id="@+id/sevenZButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="7Z"
+                android:layout_marginStart="12dp"
+                android:textSize="18sp"
+                android:onClick="onRadioButtonClicked"/>
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp">
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnCancel"
+            android:layout_width="140dp"
+            android:layout_height="60dp"
+            android:text="Cancel"
+            app:cornerRadius="26dp"
+            android:textColor="@color/grayDark"
+            android:backgroundTint="@color/gray"
+            app:rippleColor="@color/grayDark"/>
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnOk"
+            android:layout_width="140dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="30dp"
+            android:text="Ok"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/purple_200"
+            app:cornerRadius="26dp"
+            app:rippleColor="@color/grayDark"/>
+    </LinearLayout>
+
+</LinearLayout>

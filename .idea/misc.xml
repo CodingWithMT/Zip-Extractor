@@ -1,0 +1,62 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/drawable-v24/bottom_sheet_bg.xml" value="0.1575" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/drawable-v24/btn_background.xml" value="0.1575" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/drawable-v24/ic_grrater_than_image.xml" value="0.16" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/drawable-v24/ic_image_folder.xml" value="0.1575" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/drawable-v24/ic_tick_image.xml" value="0.1575" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.1575" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/drawable/circular_progress_bar.xml" value="0.163" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/drawable/conversation_btn_background.xml" value="0.1575" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/drawable/splashprogress.xml" value="0.1575" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/activity_apk.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/activity_audio.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/activity_compress.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/activity_document.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/activity_image.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/activity_internal.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/activity_video.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/apks_item_view.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/audio_item_view.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/compress_item_view.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/document_item_view.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_aac_aud.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_all_audio.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_all_docu.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_all_image.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_all_vid.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_avi_vid.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_exel_docu.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_gif_img.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_jpg_img.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_mov_vid.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_mp3_aud.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_mp4_aud.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_mp4_vid.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_pdf_docu.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_png_img.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_ppt_docu.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_rar.xml" value="0.29010416666666666" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_seven_z.xml" value="0.29010416666666666" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_tar.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_tiff_img.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_txt_docu.xml" value="0.29010416666666666" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_word_docu.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/fragment_zip.xml" value="0.25" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/internal_item_view.xml" value="0.3026041666666667" />
+        <entry key="..\:/Users/HazelMobile/Downloads/ZipFileManger/app/src/main/res/layout/videos_item_view.xml" value="0.3067708333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
